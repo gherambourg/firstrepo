@@ -1,0 +1,10 @@
+git status
+git log		<- pas un login ! git log montre l'historique
+git branch
+
+git fetch
+git pull
+
+git add [nom de fichier]
+git commit -m "message de commit"
+git push
